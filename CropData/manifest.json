@@ -1,0 +1,10 @@
+{
+  "Name": "Crop Data",
+  "Author": "Ben Jarrett",
+  "Version": "1.0.0",
+  "Description": "Gets all the crop data",
+  "UniqueID": "BenJarrett.CropData",
+  "EntryDll": "CropData.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
